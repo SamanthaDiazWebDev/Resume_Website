@@ -78,6 +78,19 @@ a {
 	list-style-type: none;
 }
 
+#Marist{
+	list-style-type: none;
+}
+
+#GCode{
+	list-style-type: none;
+}
+
+#Training{
+	list-style-type: none;
+}
+
+
 .boxed {
 	border: 2px dotted rgb(253, 253, 255) ;
   }
